@@ -1,0 +1,9 @@
+some text
+
+# Return title
+
+return return return return return return return return return return return 
+
+[link to target](./another-file-jumping-target.txt)
+[link to target text](./another-file-jumping-target.txt#target-title)
+[link to line num](./another-file-jumping-target.txt#10)

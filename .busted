@@ -1,0 +1,20 @@
+return {
+    _all = {
+        coverage = false,
+        ROOT = {'tests'},
+        recursive = true,
+        lpath = 'lua/link_jumper/?.lua;lua/?.lua;fakes/?.lua',
+    },
+    default = {
+        verbose = true
+    },
+    unit = {
+        ROOT = {'tests/unit'}
+    },
+    int = {
+        ROOT = {'tests/int'}
+    },
+    e2e = {
+        ROOT = {'tests/e2e'}
+    }
+}
