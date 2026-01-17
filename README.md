@@ -16,7 +16,13 @@ Links that handled by an external app (e.g.: web browser), these link jumps are 
 - URL links (`[link](https://website.com)`), support both `http` and `https` and open in system's default browser.
 
 
+## Requirements
+
+- Neovim >= 0.10.0
+
+
 ## Installation
+
 
 Lazy.nvim:
 ```
