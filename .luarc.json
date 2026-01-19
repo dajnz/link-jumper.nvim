@@ -2,6 +2,7 @@
     "diagnostics.globals": [
         "vim",
         "before_each",
-        "it"
+        "it",
+        "describe"
     ]
 }
